@@ -17,4 +17,5 @@ open -a safari https://marketplace.visualstudio.com/items?itemName=castwide.sola
 open -a safari https://marketplace.visualstudio.com/items?itemName=bung87.rails
 open -a safari https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark
 open -a safari https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
+printf "${BLUE}You can change your VSCode color & file icon themes under VSCode > Preferences${NC}\n"
 printf "${GREEN}DONE.${NC}\n"
