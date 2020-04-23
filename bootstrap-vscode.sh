@@ -10,7 +10,7 @@ code --install-extension castwide.solargraph
 code --install-extension bung87.rails
 code --install-extension akamud.vscode-theme-onedark
 code --install-extension vscode-icons-team.vscode-icons
-printf "${BLUE}Launching extension docs in safari for reference...${NC}\n"
+printf "${BLUE}Opening docs for each VSCode extension in safari...${NC}\n"
 open -a safari https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby
 open -a safari https://marketplace.visualstudio.com/items?itemName=wingrunr21.vscode-ruby
 open -a safari https://marketplace.visualstudio.com/items?itemName=castwide.solargraph
